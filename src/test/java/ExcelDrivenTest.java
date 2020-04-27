@@ -20,8 +20,15 @@ public class ExcelDrivenTest {
 		DataDriven d = new DataDriven();
 		ArrayList data = d.getData("RestAddBook", "RestAssuredLibraryAPI");  //in our method, we are finding "RestAddBook" row,...
 																		//...and storing in list everything that exists in that same row
+
+
 		
-		
+		System.out.println("This is example for git. This is from original project - Gitstuff");
+		System.out.println("This is example for git. This is from original project - Gitstuff");
+		System.out.println("This is example for git. This is from original project - Gitstuff");
+
+
+
 		HashMap<String, Object> map = new HashMap<>();
 		map.put("name", data.get(1));	//we don't want to the (0) cell in the row, because it is the name of the row, and we don't need it
 		map.put("isbn", data.get(2));

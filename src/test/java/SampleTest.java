@@ -18,6 +18,11 @@ public class SampleTest {
         System.out.println("Added or Git");
         System.out.println("Added or Git");
 
+        //newly added
+        System.out.println("This is from original project - Gitstuff");
+        System.out.println("This is from original project - Gitstuff");
+        System.out.println("This is from original project - Gitstuff");
+
         //possible use:
 //        driver.findElement(by.xpath("sadsa")).sendKeys(data.get(1));
 
