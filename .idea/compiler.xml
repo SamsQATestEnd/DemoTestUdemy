@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Gitstuff" />
         <module name="ExcelIntegrationWithRestAssured" />
+        <module name="DemoTestUdemy" />
       </profile>
     </annotationProcessing>
   </component>

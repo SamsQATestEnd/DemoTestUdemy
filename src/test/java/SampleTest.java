@@ -14,6 +14,10 @@ public class SampleTest {
         System.out.println(data.get(2));
         System.out.println(data.get(3));
 
+        System.out.println("Added or Git");
+        System.out.println("Added or Git");
+        System.out.println("Added or Git");
+
         //possible use:
 //        driver.findElement(by.xpath("sadsa")).sendKeys(data.get(1));
 
