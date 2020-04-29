@@ -6,13 +6,17 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 
 public class ReusableMethods {
-	
+
+
 	
 	public static XmlPath rawToXML(Response r){
 		String respon=r.asString();
 		XmlPath x=new XmlPath(respon);
 		return x;
-		
+		//newly added after adding "develop" branch
+		//newly added after adding "develop" branch
+		//newly added after adding "develop" branch
+		//newly added after adding "develop" branch
 	}
 	
 	public static JsonPath rawToJson(Response r){

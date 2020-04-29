@@ -23,6 +23,13 @@ public class SampleTest {
         System.out.println("This is from original project - Gitstuff");
         System.out.println("This is from original project - Gitstuff");
 
+
+        //newly added after adding "develop" branch
+        System.out.println("This is after branching");
+        System.out.println("This is after branching");
+        System.out.println("This is after branching");
+
+
         //possible use:
 //        driver.findElement(by.xpath("sadsa")).sendKeys(data.get(1));
 
