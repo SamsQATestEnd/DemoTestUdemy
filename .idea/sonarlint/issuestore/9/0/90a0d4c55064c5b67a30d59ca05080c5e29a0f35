@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8³˜¬Û›.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë£æô8³˜¬Û›.
+X
+java:S2696,"6Make the enclosing method "static" or remove this set.(´ˆà¯ýÿÿÿÿ8³˜¬Û›.
+j	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ³áí8³˜¬Û›.
+X	java:S125"<This block of commented-out lines of code should be removed.(õüþ®8³˜¬Û›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(žâº¸þÿÿÿÿ8×Â³Û›.
+W	java:S125&"<This block of commented-out lines of code should be removed.(Þêö#8³˜¬Û›.
+¥
+java:S1192"‚Define a constant instead of duplicating this literal "This is example for git. This is from original project - Gitstuff" 3 times.(žâº¸þÿÿÿÿ8êÜºÛ›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(žâº¸þÿÿÿÿ8êÜºÛ›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(žâº¸þÿÿÿÿ8êÜºÛ›.

@@ -22,7 +22,7 @@ public class ExcelDrivenTest {
 																		//...and storing in list everything that exists in that same row
 
 
-		
+
 		System.out.println("This is example for git. This is from original project - Gitstuff");
 		System.out.println("This is example for git. This is from original project - Gitstuff");
 		System.out.println("This is example for git. This is from original project - Gitstuff");

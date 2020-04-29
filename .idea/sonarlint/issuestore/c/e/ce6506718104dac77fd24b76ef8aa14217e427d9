@@ -1,0 +1,13 @@
+
+„
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÆÎì
+0
+java:S1220""Move this file to a named package.
+S
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÆÎì
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¥üÚşÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(şÆüúÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(¨œÚ»
